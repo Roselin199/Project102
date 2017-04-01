@@ -31,14 +31,16 @@
 </tr>
 <tr>
 <th>Domain Authority>/th>
-<td> Domain Authority of your website is only -. It is good to have domain authority more than 20.</td>
+<td> Domain Authority of your website is only 0. </td>
+<td>It is good to have domain authority more than 20.</td>
 </tr>
 <tr>
 <th>Page Authority</th>
-<td> Page Authority of your website is only -. It is good to have page authority more than 20</td>
+<td> Page Authority of your website is only 0.</td>
+<td>It is good to have page authority more than 20</td>
 </tr>
 <tr>
-<th>HTML Page Size Test</th>
+<th>HTML Page Size Test<th>
 <td>Your HTML size is 81.12 Kb and this is above the average web page size of 33 Kb. </td>
 <td>This leads to a slower page loading time than average.</td>
 </tr>
