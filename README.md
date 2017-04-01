@@ -30,7 +30,7 @@
 <td>This page must contain more than 300 CSS style.</td>
 </tr>
 <tr>
-<th>Domain Authority>/th>
+<th>Domain Authority</th>
 <td> Domain Authority of your website is only 0. </td>
 <td>It is good to have domain authority more than 20.</td>
 </tr>
@@ -40,9 +40,13 @@
 <td>It is good to have page authority more than 20</td>
 </tr>
 <tr>
-<th>HTML Page Size Test<th>
-<td>Your HTML size is 81.12 Kb and this is above the average web page size of 33 Kb. </td>
+<th>HTML Page Size Test</th>
+<td>Your HTML size is 79.38 Kb and this is above the average web page size of 33 Kb. </td>
 <td>This leads to a slower page loading time than average.</td>
+<tr>
+<th>HTML Compression/GZIP Test</th>
+<td>Your web page is not using html compression.</td>
+<td> it is recommended to use html compression e-g: gzip compression</td>
 </tr>
 </table>
 </html>
