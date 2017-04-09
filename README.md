@@ -1,5 +1,5 @@
 <html>
-<head><marquee><h1>SEO REPORT</h1></marquee>
+<head><marquee><h1><font color="red">SEO REPORT</font></h1></marquee></head>
 <table>
 <th colspan="6"><b><u><i><font color="red" size="5">NATIONAL PORTAL OF INDIA WEBSITE</font></i></u></b></th>
 <tr>
@@ -74,6 +74,7 @@
 <td>200</td>
 <td>Your HTML size is 79.38 Kb and this is above the average web page size of 33 Kb. </td>
 <td>This leads to a slower page loading time than average.</td>
+</tr>
 <tr>
 <th><font color="green" size="5">HTML Compression/GZIP Test</font></th>
 <td>Not good</td>
@@ -90,6 +91,6 @@
 <th><font color="green" size="5">SEO Grade</font></th>
 <td><img src="http://smallseotools.com/imgs/badge-bronze.png" alt="seo checker"/></td>
 </tr>
-<th colspan="6">TO GO TO NATIONAL PORTAL OF INDIA LINK CLICK: www.india.gov.in </th>
+<th colspan="6">FOLLOWING IS THE NATIONAL PORTAL OF INDIA WEBSITE: www.india.gov.in </th>
 </table>
 </html>
