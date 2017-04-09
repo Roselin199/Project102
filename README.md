@@ -3,7 +3,7 @@
 <table>
 <th colspan="6"><b><u><i><font color="red" size="5">NATIONAL PORTAL OF INDIA WEBSITE</font></i></u></b></th>
 <tr>
-<th><b>TITLE</b></th><th><b>STATUS</b></th><th><b>STATUS CODE</b></th><th>REQUIREMENTS</th><th>SUGGESTION</th>
+<th><b>TITLE</b></th><th><b>STATUS</b></th><th><b>STATUS CODE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
 </tr>
 <tr>
 <th><font color="green">Page Title</font></th>
