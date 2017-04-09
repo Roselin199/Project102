@@ -90,6 +90,6 @@
 <th><font color="green" size="5">SEO Grade</font></th>
 <td><img src="http://smallseotools.com/imgs/badge-bronze.png" alt="seo checker"/></td>
 </tr>
-<th colspan="6">TO GO TO NATIONAL PORTAL OF INDIA LINK CLICK:https://india.gov.in/ </th>
+<th colspan="6">TO GO TO NATIONAL PORTAL OF INDIA LINK CLICK: wwww.india.gov.in </th>
 </table>
 </html>
