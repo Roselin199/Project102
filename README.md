@@ -15,14 +15,14 @@ National Portal of India</td>
 </tr>
 <tr>
 <td><b>2.</b></td>
-<th><font color="brown" size="5">Meta Description</font></th>
+<th><font color="brown" size="3">Meta Description</font></th>
 <td>Not Found</td>
 <td>The meta description length of your page is 0 characters.</td> 
 <td>Most search engines will truncate meta descriptions to 160 characters.National Portal of India is a single window access to information and services being provided by the various Indian Government entities.</td>
 </tr>
 <tr>
 <td><b>3.</b></td>
-<th><font color="green" size="5">Meta Keywords</font></th>
+<th><font color="green" size="3">Meta Keywords</font></th>
 <td>Not Found</td>
 <td>Meta keywords not Found</td>
 <td>Google Does not accept meta keywords any more.</td>
